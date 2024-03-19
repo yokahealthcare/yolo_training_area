@@ -1,0 +1,7 @@
+YOLO CLI COMMAND
+
+PREDICT:
+yolo task=detect mode=predict model=yolov8n.pt conf=0.25 source="https://media.roboflow.com/notebooks/examples/dog.jpeg"
+
+TRAIN:
+yolo task=detect mode=train model=yolov8s.pt data=license/data.yaml epochs=2

@@ -1,0 +1,22 @@
+DOWNLOAD THE DATASET
+
+wget https://universe.roboflow.com/ds/Ze0xQjJCzf?key=emoJlG8Z80
+
+EXTRACT IT
+
+RENAME IT TO "license"
+
+
+
+------------------
+YOLO
+
+MKDIR "yolo"
+
+DOWNLOAD YOLO MODEL IN THERE
+
+
+-----------------
+
+
+
